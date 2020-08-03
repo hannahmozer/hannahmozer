@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Felipe Fialho example: 
+
+My name is Hannah Mozer from Brazil (🇧🇷). I've been working as Front-End Developer since 2009 and currently I'm Tech Lead at Juntos Somos Mais. I'm passionate about open source projects, so I've created some projects as Front-end BR and I've always loved to produce a lot of content during my career.
+
+In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
+
 -->
